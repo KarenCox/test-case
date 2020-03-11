@@ -1,2 +1,3 @@
 # test-case
-Test to use github
+
+Just a test during a workshop about GitHub. 
